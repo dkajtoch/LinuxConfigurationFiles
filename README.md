@@ -1,2 +1,4 @@
 # LinuxConfigurationFiles
-Personal configuration files 
+My personal configuratiob files for Linux.
+* Vim
+* Tmux
